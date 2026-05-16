@@ -416,7 +416,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'Our Services | Western Wheelcraft',
+  title: 'Our Services | WheelPro Demo',
   description: 'Premium wheel refinishing services in BC',
 };
 
